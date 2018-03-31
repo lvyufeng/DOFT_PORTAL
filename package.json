@@ -1,0 +1,26 @@
+{
+  "name": "doft_portal",
+  "version": "1.0.0",
+  "description": "doft前端代码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvyufeng/DOFT_PORTAL.git"
+  },
+  "author": "lvyufeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lvyufeng/DOFT_PORTAL/issues"
+  },
+  "homepage": "https://github.com/lvyufeng/DOFT_PORTAL#readme",
+  "devDependencies": {
+    "css-loader": "^0.28.11",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "style-loader": "^0.20.3",
+    "webpack": "^3.11.0"
+  },
+  "dependencies": {}
+}
